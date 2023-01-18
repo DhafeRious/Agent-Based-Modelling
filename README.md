@@ -1,4 +1,4 @@
-Agent-Based-Modelling Project
+Agent-Based-Modelling ( Academic Project )
 
 Agent Based Modelling approach, to simulate spatio-temporel person's movement in a city.
 ***************************************************************************************
