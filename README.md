@@ -3,10 +3,16 @@ Agent Based Modelling approach, to simulate spatio-temporel person's movement in
 ***************************************************************************************
 
 Model Assumption:
+
 • This model contains 2 agents: Person and Places
+
 • The agent places are divided into 4 subtypes (4 species) Home, School, Work and Leisure.
+
 • Every person is characterised by his age and his specific home.
+
+
 • Persons gone to School, Work and Leisure the most closest.
+
 • Every person has a probability going to School, Work or Leisure. This probability depends on person’s
 age, distance from home to the closest place, day, and the current time.
 • From Monday to Friday we have for current time in [8 am: 18 pm]:
